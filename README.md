@@ -5,7 +5,7 @@ Revisão do código cujo repositório se encontra em:https://github.com/nuk/code
 ## 💡 Opniões:
 
 1 - Após seguir o <b>Getting</b> Started da documentação : [documentação](https://guides.rubyonrails.org/getting_started.html), 
-percebi que a estrutura é padrão que o rails cria. No entanto como não havia package.json acredito que não er apra rodar mesmo.
+percebi que a estrutura é padrão que o rails cria. No entanto, como não havia package.json, creio que ele não rode.
 
 ```package.json
 {
@@ -22,3 +22,27 @@ percebi que a estrutura é padrão que o rails cria. No entanto como não havia 
 
 ```
 
+2 - No READ ME o autor fala que é um projeto em desenvolvimento também.
+
+3 -  Não possui generators:
+
+Rails:
+  application_record
+  assets
+  benchmark
+  channel
+  controller
+  generator
+  helper
+  integration_test
+  jbuilder
+  job
+  mailbox
+  mailer
+  migration
+  model
+  resource
+  scaffold
+  scaffold_controller
+  system_test
+  task
