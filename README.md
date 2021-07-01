@@ -49,5 +49,21 @@ Rails:
   - scaffold_controller
   - system_test
   - task
+```
+Percebi, ao seguir um tutorial paralelo:
 
-Percebi, ao seguir um tutorial paralelo
+Rodei:
+
+```
+rails g scaffold Alien name:string age:integer
+
+```
+
+Este comando(rails g scaffold...) gera os arquivos seguindo a arquitetura de aplicativos Rails, ou seja, ele cria um arquivo de modelo, controlador, helper e as views necessárias.
+E no código oferecido não tem eles.
+
+Criando banco de dados:
+```
+rake db:migrate
+
+```
