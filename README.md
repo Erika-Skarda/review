@@ -24,7 +24,13 @@ percebi que a estrutura é padrão que o rails cria. No entanto, como não havia
 
 2 - No READ ME o autor fala que é um projeto em desenvolvimento também.
 
-3- banco de dados parece que é o <span style="color:blue">some *blue* text</span>
+3- banco de dados parece que é o ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 3 -  Não possui generators:
 
