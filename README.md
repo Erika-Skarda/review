@@ -24,7 +24,7 @@ percebi que a estrutura é padrão que o rails cria. No entanto, como não havia
 
 2 - No READ ME o autor fala que é um projeto em desenvolvimento também.
 
-3- banco de dados parece que é o <h6>Sqlite</h6>
+3- banco de dados parece que é o <p>Sqlite</p>
 ```
 
 3 -  Não possui generators:
