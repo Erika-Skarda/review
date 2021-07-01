@@ -25,6 +25,7 @@ percebi que a estrutura é padrão que o rails cria. No entanto, como não havia
 2 - No READ ME o autor fala que é um projeto em desenvolvimento também.
 
 3- banco de dados parece que é o <b>Sqlite</b>
+
 ```
 
 3 -  Não possui generators:
@@ -52,7 +53,7 @@ Rails:
 ```
 Percebi, ao seguir um tutorial paralelo:
 
-Rodei:
+❕ Rodei:
 
 ```
 rails g scaffold Alien name:string age:integer
@@ -62,8 +63,12 @@ rails g scaffold Alien name:string age:integer
 Este comando(rails g scaffold...) gera os arquivos seguindo a arquitetura de aplicativos Rails, ou seja, ele cria um arquivo de modelo, controlador, helper e as views necessárias.
 E no código oferecido não tem eles.
 
-Criando banco de dados:
+
+❕ Criando banco de dados:
+
 ```
 rake db:migrate
 
 ```
+
+Comparando com código dado, não há nenhum banco de dados.
