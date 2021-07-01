@@ -24,25 +24,29 @@ percebi que a estrutura é padrão que o rails cria. No entanto, como não havia
 
 2 - No READ ME o autor fala que é um projeto em desenvolvimento também.
 
+3- banco de dados parece que é o <span style="color:blue">some *blue* text</span>
+
 3 -  Não possui generators:
 
 Rails:
-  application_record
-  assets
-  benchmark
-  channel
-  controller
-  generator
-  helper
-  integration_test
-  jbuilder
-  job
-  mailbox
-  mailer
-  migration
-  model
-  resource
-  scaffold
-  scaffold_controller
-  system_test
-  task
+  - application_record
+  - assets
+  - benchmark
+  - channel
+  - controller
+  - generator
+  - helper
+  - integration_test
+  - jbuilder
+  - job
+  - mailbox
+  - mailer
+  - migration
+  - model
+  - resource
+  - scaffold
+  - scaffold_controller
+  - system_test
+  - task
+
+Percebi, ao seguir um tutorial paralelo
